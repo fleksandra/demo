@@ -1,0 +1,72 @@
+.photo-shop {
+    max-width: 100px;
+}
+
+.photo-shop-view {
+    max-width: 200px;
+}
+
+.slider-photo {
+    height: 30vw;
+}
+
+.slide-title {
+    border: 1px solid #fff;
+    background-color: #fff;
+    padding: 3px 0;
+}
+
+.photo-shop-cart {
+    height: 15rem;
+    object-fit: cover;
+}
+
+.shop-cart {
+    height: 400px;
+}
+
+.sort {
+    margin-left: 0px;
+}
+
+.first-item {
+    border-radius: 4px 0 0 4px;
+}
+
+.last-item {
+    border-radius: 0 4px 4px 0;
+}
+
+.sort-item {
+    width: 130px;
+    padding: 5px;
+    border: 1px solid #ced4da;
+    text-align: center;
+}
+
+.sort-item-a {
+    color: black;
+}
+
+.img-update {
+    width: 50px;
+}
+
+.svg, .svg:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.collapse  {
+    justify-content: space-between;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+}
+
+table tr td {
+    vertical-align: top;
+}
